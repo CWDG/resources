@@ -4,12 +4,15 @@
 - [Pair Columbus](http://paircolumbus.org/)
 - [Codecademy](http://codecademy.com/)
 - [Code School](http://codeschool.com/)
+- [Treehouse](https://teamtreehouse.com/)
+- [Compilation](https://web-development.zeef.com/eduardo.bilk)
 
 ## Git
 - [Git website](https://git-scm.com)
 - [GitHub Desktop GUI client](https://desktop.github.com/)
 - [Try Git](https://try.github.io)
 - [Git-It](https://github.com/paircolumbus/Git-It)
+- [git- the simple guide](https://rogerdudler.github.io/git-guide/)
 
 ## Ruby
 - [Try Ruby](http://tryruby.org/)
