@@ -14,12 +14,6 @@
 - [Git-It](https://github.com/paircolumbus/Git-It)
 - [git- the simple guide](https://rogerdudler.github.io/git-guide/)
 
-## Ruby
-- [Try Ruby](http://tryruby.org/)
-- [Ruby at Codecademy](https://www.codecademy.com/tracks/ruby)
-- [Ruby Refresher](https://github.com/paircolumbus/RubyRefresher)
-- [Ruby Koans](http://rubykoans.com/)
-
 ## HTML
 - [HTML Playground at Mozilla Thimble](https://thimble.mozilla.org/)
 - [HTML Tutorial at Codecademy](https://www.codecademy.com/track/web/resume)
@@ -30,6 +24,12 @@
 - [CSS Tutorial](http://www.htmldog.com/guides/css/beginner/)
 - [General Goodness at CSS Tricks](https://css-tricks.com/)
 - [CSS Documentation at MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## Ruby
+- [Try Ruby](http://tryruby.org/)
+- [Ruby at Codecademy](https://www.codecademy.com/tracks/ruby)
+- [Ruby Refresher](https://github.com/paircolumbus/RubyRefresher)
+- [Ruby Koans](http://rubykoans.com/)
 
 ## JavaScript
 
