@@ -1,5 +1,8 @@
 # Resources
 
+## Colors
+- [hex & rgb converter](http://hex.colorrrs.com/)
+
 ## General
 - [Pair Columbus](http://paircolumbus.org/)
 - [Codecademy](http://codecademy.com/)
