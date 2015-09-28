@@ -33,6 +33,7 @@
 - [Ruby at Codecademy](https://www.codecademy.com/tracks/ruby)
 - [Ruby Refresher](https://github.com/paircolumbus/RubyRefresher)
 - [Ruby Koans](http://rubykoans.com/)
+- [Style Guide](https://github.com/bbatsov/ruby-style-guide/blob/master/README.md)
 
 ## JavaScript
 
