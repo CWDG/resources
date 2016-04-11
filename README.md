@@ -1,5 +1,7 @@
 # Resources
 
+This repository is now outdated! It has been moved to be part of the [CWDG website repo](https://github.com/cwdg/cwdg.github.io).
+
 ## General
 - [Pair Columbus](http://paircolumbus.org/)
 - [Codecademy](http://codecademy.com/)
